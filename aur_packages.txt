@@ -1,0 +1,13 @@
+gtk-engine-murrine
+hyprgraphics-git
+hyprlang-git
+hyprtoolkit-git
+hyprutils-git
+hyprwayland-scanner-git
+sddm-conf-git
+sddm-theme-sugar-candy-git
+ttf-victor-mono
+wallust
+wayland-pipewire-idle-inhibit
+wlogout
+yay-debug
