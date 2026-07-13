@@ -1,0 +1,13 @@
+# Ignorar dados pesados e pessoais de navegadores
+.config/mozilla/
+.config/google-chrome/
+.cache/
+
+# Ignorar bancos de dados sqlite e temporários
+*.sqlite
+*.sqlite-journal
+*.log
+
+# Opcional: ignorar arquivos de mídia pesados se não quiser no git
+*.mp4
+*.mp3
