@@ -1,0 +1,137 @@
+15:06:39.453: Platform: Wayland
+15:06:39.453: CPU Name: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+15:06:39.453: CPU Speed: 3199.766MHz
+15:06:39.453: Physical Cores: 4, Logical Cores: 8
+15:06:39.453: Physical Memory: 7714MB Total, 300MB Free
+15:06:39.453: Kernel Version: Linux 7.1.2-arch3-1
+15:06:39.453: Distribution: "Arch Linux" Unknown
+15:06:39.453: Desktop Environment: Hyprland (Hyprland)
+15:06:39.453: Session Type: wayland
+15:06:39.455: Current Date/Time: 2026-07-10, 15:06:39
+15:06:39.455: Browser Hardware Acceleration: true
+15:06:39.455: Qt Version: 6.11.1 (runtime), 6.11.1 (compiled)
+15:06:39.455: Portable mode: false
+15:06:39.524: OBS 32.1.2 (linux)
+15:06:39.524: ---------------------------------
+15:06:39.524: ---------------------------------
+15:06:39.524: audio settings reset:
+15:06:39.524: 	samples per sec: 48000
+15:06:39.524: 	speakers:        2
+15:06:39.524: 	max buffering:   960 milliseconds
+15:06:39.524: 	buffering type:  dynamically increasing
+15:06:39.526: ---------------------------------
+15:06:39.526: Initializing OpenGL...
+15:06:39.526: Using EGL/Wayland
+15:06:39.610: Initialized EGL 1.5
+15:06:39.632: Loading up OpenGL on adapter Intel Mesa Intel(R) UHD Graphics 620 (KBL GT2)
+15:06:39.632: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 26.1.4-arch1.1, shading language 4.60
+15:06:39.781: ---------------------------------
+15:06:39.781: video settings reset:
+15:06:39.781: 	base resolution:   1366x768
+15:06:39.781: 	output resolution: 1092x614
+15:06:39.781: 	downscale filter:  Bicubic
+15:06:39.781: 	fps:               30/1
+15:06:39.781: 	format:            NV12
+15:06:39.781: 	YUV mode:          Rec. 709/Partial
+15:06:39.781: NV12 texture support enabled
+15:06:39.781: P010 texture support not available
+15:06:39.790: Audio monitoring device:
+15:06:39.790: 	name: Default
+15:06:39.790: 	id: default
+15:06:39.792: ---------------------------------
+15:06:39.794: Failed to load 'en-US' text for module: 'decklink-captions.so'
+15:06:39.796: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+15:06:39.797: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+15:06:39.797: Failed to initialize module 'decklink.so'
+15:06:40.013: [pipewire] Available capture sources:
+15:06:40.013: [pipewire]     - Monitor source
+15:06:40.013: [pipewire]     - Window source
+15:06:40.020: v4l2loopback not installed, virtual camera not registered
+15:06:40.432: LIBVA_DRIVER_NAME variable is set, this could prevent FFmpeg VAAPI from working correctly
+15:06:40.546: VAAPI: API version 1.24
+15:06:40.665: FFmpeg VAAPI H264 encoding not supported
+15:06:40.861: FFmpeg VAAPI AV1 encoding not supported
+15:06:41.054: FFmpeg VAAPI HEVC encoding not supported
+15:06:41.675: [NVENC] Test process failed: no_supported_devices
+15:06:41.675: NVENC not supported
+15:06:41.675: Failed to initialize module 'obs-nvenc.so'
+15:06:42.134: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.7.3 | RPC Version: 1)
+15:06:42.134: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.11.1 | Qt version (run-time): 6.11.1
+15:06:42.134: [obs-websocket] [obs_module_load] Linked ASIO Version: 103800
+15:06:42.135: [obs-websocket] [Config::Load] Existing configuration not found, using defaults.
+15:06:42.135: [obs-websocket] [Config::Load] (FirstLoad) Generating new server password.
+15:06:42.139: [obs-websocket] [obs_module_load] Module loaded.
+15:06:42.143: ---------------------------------
+15:06:42.143:   Loaded Modules:
+15:06:42.143:     text-freetype2.so
+15:06:42.143:     rtmp-services.so
+15:06:42.143:     obs-x264.so
+15:06:42.143:     obs-websocket.so
+15:06:42.143:     obs-webrtc.so
+15:06:42.143:     obs-vst.so
+15:06:42.143:     obs-transitions.so
+15:06:42.143:     obs-qsv11.so
+15:06:42.143:     obs-outputs.so
+15:06:42.143:     obs-libfdk.so
+15:06:42.143:     obs-filters.so
+15:06:42.143:     obs-ffmpeg.so
+15:06:42.143:     linux-v4l2.so
+15:06:42.143:     linux-pulseaudio.so
+15:06:42.143:     linux-pipewire.so
+15:06:42.143:     linux-jack.so
+15:06:42.143:     linux-capture.so
+15:06:42.143:     linux-alsa.so
+15:06:42.143:     image-source.so
+15:06:42.143:     frontend-tools.so
+15:06:42.143:     decklink-output-ui.so
+15:06:42.143:     decklink-captions.so
+15:06:42.143: ---------------------------------
+15:06:42.143: ---------------------------------
+15:06:42.143: Available Encoders:
+15:06:42.143:   Video Encoders:
+15:06:42.143: 	- ffmpeg_svt_av1 (SVT-AV1)
+15:06:42.143: 	- ffmpeg_aom_av1 (AOM AV1)
+15:06:42.143: 	- obs_x264 (x264)
+15:06:42.143:   Audio Encoders:
+15:06:42.143: 	- ffmpeg_aac (FFmpeg AAC)
+15:06:42.143: 	- ffmpeg_opus (FFmpeg Opus)
+15:06:42.143: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+15:06:42.143: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+15:06:42.143: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+15:06:42.143: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+15:06:42.143: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+15:06:42.143: 	- libfdk_aac (libfdk AAC)
+15:06:42.143: ==== Startup complete ===============================================
+15:06:42.148: No scene file found, creating default scene
+15:06:42.193: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: Connection already associated with an application ID")
+15:06:42.193: All scene data cleared
+15:06:42.193: ------------------------------------------------
+15:06:42.213: Device for 'Audio Output Capture' source Desktop Audio is also used for audio monitoring.
+15:06:42.213: Deduplication logic is being applied to all monitored sources.
+15:06:42.213: pulse-input: Server name: 'PulseAudio (on PipeWire 1.6.7) 15.0.0'
+15:06:42.213: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+15:06:42.213: pulse-input: Started recording from 'alsa_output.usb-GN_Netcom_A_S_Jabra_EVOLVE_20_MS_000B0B9CC5BE0A-00.analog-stereo.monitor' (default)
+15:06:42.214: pulse-input: Server name: 'PulseAudio (on PipeWire 1.6.7) 15.0.0'
+15:06:42.214: pulse-input: Audio format: s16le, 48000 Hz, 1 channels
+15:06:42.214: pulse-input: Started recording from 'alsa_input.usb-GN_Netcom_A_S_Jabra_EVOLVE_20_MS_000B0B9CC5BE0A-00.mono-fallback' (default)
+15:06:42.216: Switched to scene 'Scene'
+15:06:42.216: Created scene collection 'Untitled' (clean, Untitled.json)
+15:06:42.216: ------------------------------------------------
+15:06:42.232: Device for 'Audio Output Capture' source Desktop Audio is also used for audio monitoring.
+15:06:42.232: Deduplication logic is being applied to all monitored sources.
+15:06:42.767: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+15:06:42.767: 
+15:07:18.353: ==== Shutting down ==================================================
+15:07:18.367: pulse-input: Stopped recording from 'alsa_output.usb-GN_Netcom_A_S_Jabra_EVOLVE_20_MS_000B0B9CC5BE0A-00.analog-stereo.monitor'
+15:07:18.367: pulse-input: Got 1445 packets with 1734000 frames
+15:07:18.367: Deduplication logic stopped.
+15:07:18.368: pulse-input: Stopped recording from 'alsa_input.usb-GN_Netcom_A_S_Jabra_EVOLVE_20_MS_000B0B9CC5BE0A-00.mono-fallback'
+15:07:18.368: pulse-input: Got 1443 packets with 1731600 frames
+15:07:18.395: All scene data cleared
+15:07:18.395: ------------------------------------------------
+15:07:18.396: Crash sentinel location '/home/luizsg/.config/obs-studio/.sentinel' does not exist
+15:07:18.468: [obs-websocket] [obs_module_unload] Shutting down...
+15:07:18.468: Tried to call obs_frontend_remove_event_callback with no callbacks!
+15:07:18.468: [obs-websocket] [obs_module_unload] Finished shutting down.
+15:07:18.493: [Scripting] Total detached callbacks: 0
+15:07:18.493: Freeing OBS context data

@@ -1,0 +1,57 @@
+# --- Tempo e Idioma (Padrão BR) ---
+clock
+timestr=%H:%M:%S
+datestr=%d/%m/%Y
+
+# --- Customização de Texto e Fonte ---
+font="JetBrains Mono"
+font-size=32
+text-color=ddddddff
+
+# --- Fundo (Espaço e Lua) ---
+# Adicione o caminho completo da sua imagem abaixo:
+image=/home/luizsg/Pictures/wallpapers/purpled-night.jpg
+# Se preferir o print do sistema com a sua paleta de fundo preto, descomente as 2 linhas abaixo:
+# screenshots
+# effect-blur=7x5
+effect-vignette=0.5:0.5
+
+# --- Configuração do Indicador Central ---
+indicator
+indicator-radius=135
+indicator-thickness=8
+
+# --- Paleta de Cores Customizada (RRGGBBAA) ---
+
+# Círculo Interno (Preto com leve transparência)
+inside-color=000000aa
+inside-clear-color=000000aa
+inside-ver-color=000000aa
+inside-wrong-color=000000aa
+
+# Anel Externo Estático (Rxo Principal/Vibrante - Substituindo o Rosa)
+ring-color=7b2cbfff
+
+# Feedback de Digitação (Seu Dourado do Kitty: #D4AF37)
+key-hl-color=D4AF37ff
+
+# Feedback de Apagar/Backspace (Roxo Mais Claro/Neon)
+bs-hl-color=9d4eddff
+
+# Estado: Verificando Senha (Anel muda para o seu Dourado Claro: #E5C158)
+ring-ver-color=E5C158ff
+text-ver-color=E5C158ff
+
+# Estado: Senha Incorreta (Anel pisca no Roxo Principal)
+ring-wrong-color=7b2cbfff
+text-wrong-color=7b2cbfff
+
+# Estado: Caps Lock Ativado (Mix de Dourado e Roxo Claro)
+caps-lock-key-hl-color=E5C158ff
+caps-lock-bs-hl-color=9d4eddff
+
+# Linhas divisórias transparentes
+line-color=00000000
+line-clear-color=00000000
+line-ver-color=00000000
+line-wrong-color=00000000
