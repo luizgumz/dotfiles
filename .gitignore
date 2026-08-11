@@ -11,3 +11,17 @@
 # Formatos indesejados
 *.mp4
 *.mp3
+
+# Firefox (caches, IndexedDB, perfis)
+.config/mozilla/
+.mozilla/
+
+# Discord (executáveis, módulos binários e cache)
+.config/discord/
+.config/Discord/
+
+# Cache geral e bancos de dados
+.cache/
+*.node
+*.so
+*.dll

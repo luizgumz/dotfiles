@@ -1,0 +1,19 @@
+# ~/.config/starship.toml
+
+format = """
+[🌙](bold #FFD700) $directory\
+"""
+
+[directory]
+style = "bold #A052FF" # Roxo claro/magenta
+truncation_length = 3
+format = "[$path]($style) "
+
+[git_branch]
+symbol = "✨"
+style = "bold #FFD700" # Dourado
+format = "on [$symbol$branch]($style) "
+
+[character]
+success_symbol = "[🌌 ❯](bold #FFD700)" 
+error_symbol = "[☄️ ❯](bold red)"
