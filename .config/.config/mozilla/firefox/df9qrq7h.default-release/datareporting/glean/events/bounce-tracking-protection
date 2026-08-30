@@ -1,0 +1,2 @@
+{"timestamp":172061243,"category":"bounce.tracking.protection","name":"purge_action","extra":{"site_host":"virustotal.com","bounce_time":"1787942290","glean_timestamp":"1788002140477","is_dry_run":"true","success":"true"},"execution_counter":5}
+{"timestamp":175661036,"category":"bounce.tracking.protection","name":"purge_action","extra":{"is_dry_run":"true","site_host":"openai.com","success":"true","bounce_time":"1788000620","glean_timestamp":"1788005740269"},"execution_counter":5}
